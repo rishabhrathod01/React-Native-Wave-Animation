@@ -4,7 +4,8 @@
       "turboModules": true
     },
     "name": "MIUI Wave Animation ",
-    "description": "",
-    "slug": "miui-wave-animation"
+    "description": "Implement MIUI wave animation using react native reanimated2 APIs \n- wave moves on phone tilt.",
+    "slug": "miui-wave-animation",
+    "githubUrl": "https://github.com/Rishabh-Rathod/Animation"
   }
 }
