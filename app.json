@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "experiments": {
+      "turboModules": true
+    },
+    "name": "MIUI Wave Animation ",
+    "description": "",
+    "slug": "miui-wave-animation"
+  }
+}
